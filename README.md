@@ -4,7 +4,7 @@ Collection of NeetCode / LeetCode solutions in Java.
 
 ### Project structure
 
-- `pom.xml` — minimal Maven configuration (Java 17, JUnit 5 is available if you ever want tests).
+- `pom.xml` — minimal Maven configuration (Java 17, JUnit 5).
 - `src/main/java/com/grom/neetcode` — all solutions.
 
 The project is not meant to be a runnable app, it is just a well-organized library of solutions.
@@ -32,7 +32,7 @@ NeetCode 150 problems are grouped by official topic into packages under:
 - `com.grom.neetcode.neetcode150.math_geometry`
 - `com.grom.neetcode.neetcode150.bit_manipulation`
 
-You can also keep any extra/non-NeetCode-150 problems directly under `com.grom.neetcode` (e.g. `com.grom.neetcode.arrays`).
+Any extra/non-NeetCode problems to be kept directly under `com.grom.neetcode` (e.g. `com.grom.neetcode.arrays`).
 
 ### Naming conventions
 
@@ -41,12 +41,6 @@ You can also keep any extra/non-NeetCode-150 problems directly under `com.grom.n
   - `TwoSum`
   - `ValidPalindrome`
   - `BestTimeToBuyAndSellStock`
-
-For problems you use a lot, you may optionally add the LeetCode id suffix:
-
-- `TwoSum_1`
-- `ValidParentheses_20`
-
 ### Example (NeetCode 150)
 
 Example problem class (NeetCode 150 — Arrays & Hashing — Two Sum):

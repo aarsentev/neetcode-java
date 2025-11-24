@@ -17,7 +17,6 @@
     </properties>
 
     <dependencies>
-        <!-- JUnit 5 для возможных тестов решений -->
         <dependency>
             <groupId>org.junit.jupiter</groupId>
             <artifactId>junit-jupiter-api</artifactId>
