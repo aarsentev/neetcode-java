@@ -1,7 +1,7 @@
-package com.grom.neetcode.neetcode150.sliding_window;
+package com.grom.neetcode.neetcode150.arrays_hashing;
 
 /**
- * NeetCode 150 - Sliding Window - Best Time to Buy and Sell Stock (LeetCode #121).
+ * NeetCode 150 - Arrays & Hashing - Best Time to Buy and Sell Stock (LeetCode #121).
  */
 public class BestTimeToBuyAndSellStock_121 {
 
